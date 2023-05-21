@@ -1,0 +1,3 @@
+﻿  run forest run.cpp
+C:\Users\Redmi\source\repos\run forest run\run forest run\run forest run.cpp(423,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  run forest run.vcxproj -> C:\Users\Redmi\source\repos\run forest run\x64\Debug\run forest run.exe
